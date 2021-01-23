@@ -6,7 +6,7 @@
 
 ~/Desktop/python_env
 
-docker build .
+docker build --platform linux/amd64 .
 
 =>Successfully built d723190a8650
 
